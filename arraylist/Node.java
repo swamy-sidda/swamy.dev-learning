@@ -14,7 +14,7 @@ public class Node {
         this.next = next;
     }
 
-   static void main(String[] args) {
+    void main(String[] args) {
 
        LinkedListExam list1 = new LinkedListExam();
         list1.add(10100);

@@ -2,7 +2,7 @@ package arrays.arrays;
 
 class Counting_Chars
 {
-    public static void main(String fg[])
+      void main(String fg[])
     {
         int a[]={12,32,12,32,23,23,23,33,33,32,32,43,45,45,45};
         for(int i=0;i<a.length;i++)

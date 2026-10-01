@@ -2,23 +2,23 @@ package innerclasses;
 
 public class Regular {
     public static void main(String []ar){
-       Student s=new Student("kumar",12300);
-       Student.Department dept=s.new Department();
+       Student12 s=new Student12("kumar",12300);
+       Student12.Department dept=s.new Department();
        s.subtract();
        //s.add(10,10);
         dept.add(10,20);
-       Student.Department dept1=new Student().new Department();
+       Student12.Department dept1=new Student12().new Department();
     }
 }
 
 
 
 
-class Student {
+class Student12 {
     String name;
     double salary;
-    Student(){}
-    Student(String n,double s){
+    Student12(){}
+    Student12(String n,double s){
         name=n;
         salary=s;
     }
@@ -26,7 +26,7 @@ class Student {
         System.out.println("the name is "+this.name);
         System.out.println("the salary is "+this.salary);
     }
-    class Department extends Student{
+    class Department extends Student12{
         String name;
         Department(){
             super();

@@ -3,7 +3,7 @@ package arrays.arrays;
 import java.util.Scanner;    //ARRAYS PROBLEM 1:
 class Arrays
 {
-    public static void main(String ar[])
+     void main(String ar[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter of an array");

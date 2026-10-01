@@ -1,3 +1,5 @@
+package basics;
+
 public class FascinatingNumber {
      static void main(String[] args) {
         int number=192;

@@ -3,7 +3,7 @@ package arrays.arrays;
 import java.util.Scanner;
 class ArraySum
 {
-    public static void main(String ar[])
+     void main(String ar[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the size of array");

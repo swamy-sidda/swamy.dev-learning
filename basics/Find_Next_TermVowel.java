@@ -1,5 +1,7 @@
+package basics;
+
 import java.util.Scanner;
-import java.util.*;
+import java.util.Scanner;
 
 public class Find_Next_TermVowel
 {

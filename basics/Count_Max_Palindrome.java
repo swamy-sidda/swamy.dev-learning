@@ -1,3 +1,4 @@
+package basics;
 
 import java.util.Scanner;
 public class Count_Max_Palindrome

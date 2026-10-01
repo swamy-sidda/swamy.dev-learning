@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 class MergeSort
 {
-    public static void main(String a[])
+     void main(String a[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter size of arry");

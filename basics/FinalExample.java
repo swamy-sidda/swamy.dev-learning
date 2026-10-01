@@ -7,7 +7,7 @@ public class FinalExample {
     this.i=i;
     this.j=j;
   }
-     static void main(String[] args) {
+     static void main() {
 
     }
 }

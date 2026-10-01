@@ -5,7 +5,7 @@ import java.util.Stack;
 
 public class Balanced_String_Stack
 {
- public static void main(String sd[])
+  static void main(String sd[])
  {
    System.out.println("enter a string");
    Scanner sc=new Scanner(System.in);

@@ -53,7 +53,7 @@ public boolean remove(int index)
 
 public class Implementation_User
 {
-public static void main(String fa[])
+ void main(String fa[])
 {
  ArrayList_Implementation ai=new ArrayList_Implementation();
  ai.add(10); 

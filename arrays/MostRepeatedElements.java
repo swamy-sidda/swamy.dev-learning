@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MostRepeatedElements {
-    static void main() {
+    void main() {
         System.out.println(maxSubArray(new int[]{1,2,3,4,5}));
     }
     public static List<Integer> maxSubArray(int[] arr) {

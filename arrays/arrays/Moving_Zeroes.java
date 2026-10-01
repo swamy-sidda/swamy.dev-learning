@@ -2,7 +2,7 @@ package arrays.arrays;
 
 class Moving_Zeroes
 {
-    public static void main(String ad[])
+     void main(String ad[])
     {
         int[] a={0,1,0,2,10,20,30,0,0,40,0,50,0,70,0,90};
         int j=a.length-1,i=0;

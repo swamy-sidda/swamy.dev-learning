@@ -27,7 +27,7 @@ class TheaterApp {
 }
 
 public class BookMyShowApp {
-    public static void main(String ad[]) {
+     void main(String ad[]) {
         TheaterApp t =  TheaterApp .getInstance();
         t.bookSeats(20);
         TheaterApp  t1 =  TheaterApp .getInstance();

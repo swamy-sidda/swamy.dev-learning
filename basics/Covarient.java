@@ -1,7 +1,7 @@
 package basics;
 
 public class Covarient {
-     static void main(String[] args) {
+     static void main() {
       Parent p = new Parent();
       Machine m=p.getAction();
 

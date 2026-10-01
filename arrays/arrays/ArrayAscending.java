@@ -3,7 +3,7 @@ package arrays.arrays;
 import java.util.Scanner;
 class ArrayAscending
 {
-    public static void main(String at[])
+     void main(String at[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter size of array");

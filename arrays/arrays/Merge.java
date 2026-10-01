@@ -3,7 +3,7 @@ package arrays.arrays;
 import java.util.Arrays;
 public class Merge
 {
-    public static void main(String as[])
+     void main(String as[])
     {
         int arr[]={1,3,5,2,4,9,6,7,0,8};
         sort(arr);

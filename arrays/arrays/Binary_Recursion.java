@@ -2,7 +2,7 @@ package arrays.arrays;
 
 public class Binary_Recursion
 {
-    public static void main(String as[])
+     void main(String as[])
     {
         int[] a={12,13,14,15,16,17,18,19};
         if(search(a,123,0,a.length-1))

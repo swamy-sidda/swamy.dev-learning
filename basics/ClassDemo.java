@@ -15,7 +15,7 @@ public class ClassDemo {
 //    {
 //       System.out.println(i+" "+j);
 //    }
-     static void main(String[] args) {
+     static void main() {
         new ClassDemo(0,1);
     }
 

@@ -1,3 +1,5 @@
+package basics;
+
 import java.util.Scanner;
 public class Recursive_Range_Palindrome
 {

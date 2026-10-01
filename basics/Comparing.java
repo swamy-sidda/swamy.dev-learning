@@ -1,7 +1,7 @@
 package basics;
 
 public class Comparing {
-     static void main(String[] ar) {
+     static void main() {
        StringBuilder sb=new StringBuilder("KUMAR");
        StringBuffer sb1=new StringBuffer("KUMAR");
        StringBuffer sb2=new StringBuffer("kumar");

@@ -3,7 +3,7 @@ package arrays.arrays;
 import java.util.Scanner;
 class Even_Store
 {
-    public static void main(String as[])
+     void main(String as[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter array size");

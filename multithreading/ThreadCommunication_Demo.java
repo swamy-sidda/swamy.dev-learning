@@ -1,7 +1,7 @@
 package multithreading;
 
 public class ThreadCommunication_Demo {
-    static void main() throws InterruptedException {
+     void main() throws InterruptedException {
         Basic_Thread t1=new Basic_Thread();
         t1.start();
         synchronized (t1) {

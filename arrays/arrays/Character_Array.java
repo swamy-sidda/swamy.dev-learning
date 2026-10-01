@@ -3,7 +3,7 @@ package arrays.arrays;
 import java.util.Scanner;
 public class Character_Array
 {
-    public static void main(String af[])
+    void main(String af[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter size of array");

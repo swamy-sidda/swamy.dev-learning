@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 public class BubbleSort
 {
-    public static void main(String ar[])
+     void main(String ar[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter size of array");

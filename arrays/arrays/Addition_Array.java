@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Addition_Array
 {
-    public static void main(String ad[])
+     void main(String ad[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter first Array size");

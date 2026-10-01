@@ -1,7 +1,6 @@
 package arraylist;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
@@ -23,7 +22,7 @@ class Student {
 }
 
 public class Test {
-    public static void main(String[] args) {
+     void main(String[] args) {
         List<Student> list = new ArrayList<>();
         list.add(new Student(1, "kumar", 22));
         list.add(new Student(2, "jitu", 19));

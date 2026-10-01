@@ -1,9 +1,10 @@
+package basics;
 
 import java.util.Scanner;
 
 public class Count_Min_Palindrome
 {
-    public static void main(String cc[])
+     static void main(String cc[])
     {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter two numbers");

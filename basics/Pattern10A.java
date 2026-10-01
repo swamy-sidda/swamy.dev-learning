@@ -1,4 +1,4 @@
-
+package basics;
 
 public class Pattern10A
 {

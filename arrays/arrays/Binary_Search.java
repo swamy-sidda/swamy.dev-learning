@@ -2,7 +2,7 @@ package arrays.arrays;
 
 public class Binary_Search
 {
-    public static void main(String fh[])
+     void main(String fh[])
     {
         int[] a={1,2,3,4,5,6,10,20,30,40};
         if(search(a,60))

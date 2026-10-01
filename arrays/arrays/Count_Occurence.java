@@ -2,7 +2,7 @@ package arrays.arrays;
 
 public class Count_Occurence
 {
-    public static void main(String kl[])
+     void main(String kl[])
     {
         int[] a={12,12,34,54,34,54,54,54,43,43};
 

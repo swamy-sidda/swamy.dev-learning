@@ -81,7 +81,7 @@ public class LinkedListExam {
 
     public static class ArrayList1
     {
-    public static void main(String fa[])
+      static void main(String fa[])
     {
      ArrayList_Implementation1 ai=new ArrayList_Implementation1();
      ai.add(10);

@@ -2,7 +2,7 @@ package arrays.arrays;
 
 class Linear_Search
 {
-    public static void main(String fa[])
+     void main(String fa[])
     {
         int[] a={10,3,4,6,7,89,4,2,6,7,8};
         if(linearSearch(a,7))
